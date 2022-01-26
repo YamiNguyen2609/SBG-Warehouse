@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SBG Warehouse</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">uRSX0cMiU2l5DDFSiz9D0ImE0xXeUPZiCzXop</string>
+</resources>
